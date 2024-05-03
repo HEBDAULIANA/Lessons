@@ -1,0 +1,19 @@
+h1 {
+    font-size: 20px;
+    font-family: Gulim;            
+    text-align: center;
+    background-color: #BBA0B2;
+   }
+    h3 {
+    font-size: 30px;
+    font-family: Verdana ; 
+    color: #23AC16 ;
+    text-align: center;
+    background-image: url(https://st.depositphotos.com/2706095/4572/i/450/depositphotos_45726645-stock-photo-pink-pastel-background.jpg);
+    background-size: 100%;
+    }
+    h2 {
+    font-size: 20px;
+    text-align: center;
+    background-color: #6EA775 ;
+   }
